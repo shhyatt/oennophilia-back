@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  foodwine_id: 1
+  user_id: 1
+  review: MyString
+  rating: 1
+
+two:
+  foodwine_id: 1
+  user_id: 1
+  review: MyString
+  rating: 1
